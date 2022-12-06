@@ -1,0 +1,201 @@
+.let {
+    /* margin-left: 0px; */
+    margin-top: 209px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.let h1 {
+    font-family: 'Noto Serif', serif;
+    letter-spacing: 10px;
+    color: purple;
+    font-size: 7vw;
+    font-weight: 500;
+}
+
+.let h4 {
+    font-size: 5vw;
+    font-family: 'Sanchez', serif;
+    letter-spacing: 9px;
+    margin-top: 40px;
+    color: darkblue;
+    margin-left: 4px;
+    font-weight: 500;
+    text-align: center;
+}
+
+#nav {
+    display: none;
+}
+
+#more {
+    padding: 6%;
+    height: 100%;
+}
+
+.bk {
+    border: 1.5px solid darkblue;
+    height: 60vh;
+    width: 58vw;
+    margin: 20px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 42px;
+    align-items: center;
+    box-shadow: 5px 5px 16px 1px purple;
+}
+
+.bx {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0px;
+    /* border: 2px solid red; */
+}
+
+.bx img {
+    width: 100%;
+    height: 45%;
+    border-radius: 20px;
+    border: 4px solid purple;
+}
+
+#more h1 {
+    color: purple;
+    letter-spacing: 7px;
+    font-size: 7vw;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: -16px;
+    margin-bottom: -17px;
+}
+.lr{
+    letter-spacing: 1vw;
+    font-size: 4vw;
+}
+.sp {
+    letter-spacing: 1vw;
+    font-size: 4vw;
+}
+.lf {
+    letter-spacing: 1vw;
+    font-size: 4vw;
+}
+
+.bk p {
+    font-size: 4vw;
+    color: #00008bb5;
+    margin-top: 10px;
+    letter-spacing: 1vw;
+}
+
+
+.vc h3 {
+    font-size: 6vw;
+    color: purple;
+    letter-spacing: 1vw;
+    text-align: center;
+}
+
+.vac {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.vacc {
+    letter-spacing: 1vw;
+    font-size: 4vw;
+    text-align: center;
+    
+}
+
+.san {
+    display: flex;
+    /* justify-content: right; */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
+}
+.sani {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sanii {
+    letter-spacing: 1vw;
+    font-size: 4vw;
+    text-align: center;
+}
+
+
+.height {
+    height: 100vh;
+    /* margin: 4px; */
+    /* border: 2px solid red; */
+}
+
+.st {
+    display: flex;
+    /* margin-top: -338px; */
+    justify-content: right;
+    /* margin-right: 2px; */
+    margin-top: 0;
+    /* justify-content: right; */
+    margin-right: 0;
+}
+
+.sty {
+    
+    margin-right: 0;
+}
+.sty h1 {
+    font-size: 10vw;
+    letter-spacing: 10vw;
+    font-weight: 100;
+    margin-right: 0px;
+    color: purple;
+}
+.st img {
+    width: 94vw;
+    margin-right: 3vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: 0;
+}
+
+.in {
+    display: flex;
+    flex-direction: column;
+    margin-right: 0px;
+    font-family: 'Sanchez', serif;
+}
+
+.in p {
+    font-family: 'Sanchez', serif;
+    margin: 8vw;
+    letter-spacing: 1vw;
+    font-size: 4vw;
+    color: darkblue;
+    z-index: 2;
+}
+
+#contact h1 {
+    color: purple;
+    letter-spacing: 4vw;
+    font-size: 10vw;
+    margin-left: 58px;
+    margin-top: 10px;
+    margin-bottom: -17px;
+}
+
+#contact-box form {
+    width: 84vw;
+    border: 2px solid purple;
+    /* justify-content: center; */
+    border-radius: 5%;
+    box-shadow: 2px 4px 14px 1px darkblue;
+    margin-top: 8vw;
+}
