@@ -99,7 +99,7 @@
 
 
 #home{
-    background: url('/img/5.png') no-repeat center center/cover;
+    background: url('./img/5.png') no-repeat center center/cover;
     
 }
 
