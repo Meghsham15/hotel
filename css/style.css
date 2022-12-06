@@ -99,7 +99,7 @@
 
 
 #home{
-    background-image: url('./img/5.png') no-repeat center center/cover;
+    background: url('../img/5.png') no-repeat center center/cover;
     
 }
 
@@ -288,7 +288,7 @@
 
 
 #stay {
-    background-image: url('./img/6.png');
+    background: url('../img/6.png');
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -371,7 +371,7 @@
     height: 100%;
     z-index: -1;
     opacity: 0.7;
-    background-image: url('./img/ctcf.jpg') no-repeat center center/cover;
+    background: url('../img/ctcf.jpg') no-repeat center center/cover;
 }
 #contact-box{
     font-family: 'Josefin Sans', sans-serif;
@@ -552,16 +552,16 @@ footer{
 
 @keyframes back {
     0%{
-        background-image: url('./img/5.png') no-repeat center center/cover;
+        background: url('../img/5.png') no-repeat center center/cover;
     }
     40%{
-        background-image: url('./img/b beach.jpg') no-repeat center center/cover;
+        background: url('../img/b beach.jpg') no-repeat center center/cover;
     }
     70%{
-        background-image: url('./img/back b.jpg') no-repeat center center/cover;
+        background: url('../img/back b.jpg') no-repeat center center/cover;
     }
     100%{
-        background-image: url('./img/beach b.jpg') no-repeat center center/cover;
+        background: url('../img/beach b.jpg') no-repeat center center/cover;
     }
 }
 
